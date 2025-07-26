@@ -70,7 +70,3 @@ ai-trip-planner/
 │   ├── main.jsx                # Entry point for React
 │   └── index.css               # TailwindCSS styles
 ```
-
----
-
-Let me know if you want to add badges, a deployment link, or setup instructions next!
